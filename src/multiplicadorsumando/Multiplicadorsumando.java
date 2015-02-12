@@ -10,7 +10,7 @@ public class Multiplicadorsumando {
         System.out.println("introducel el multiplicador");
         multiplicador=introducir.nextInt();
         do{
-    }while();
+    }while();// hola soy isa
     
 }
 }
